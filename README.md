@@ -12,7 +12,7 @@ The dashboard features multiple interactive pages designed for easy navigation a
 1. Home
 2. Salary Insight
 3. Job Types and Details
-4. Job Posting Country and Dat
+4. Job Posting Country and Date
 
 
 ### Home

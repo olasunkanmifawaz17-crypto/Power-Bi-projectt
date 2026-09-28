@@ -19,6 +19,7 @@ The dashboard features multiple interactive pages designed for easy navigation a
 Homepage: 
 Data Job Salary Insight:
 The homepage provides an overview of salary insights across different data-related job roles. It presents the median yearly salary through KPI cards, a salary comparison gauge, and an interactive table showing job titles, median salaries, and salary ratings. Navigation buttons also allow users to explore other sections of the dashboard.
+
 ![Homepage Image](/Home.png)
 
 ### Salary Insight
